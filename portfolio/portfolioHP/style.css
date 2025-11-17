@@ -29,7 +29,7 @@ header {
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
-    align-items: right;
+    align-items: flex-end;
     flex-direction: column;
     /* ↑必要かチェック */
     color: azure;
@@ -42,6 +42,7 @@ header {
     font-weight: bold;
     text-align: right;
     margin: 50px;
+    list-style: none;
 }
 
 #profile>h3, #details>h3, #contact>h3, #message>h3 {
@@ -52,7 +53,9 @@ padding-top: 40px;
 }
 
 .contents>img{
-    height: 150px;
+    max-width: 300px;
+    height: auto;
+    object-fit: cover;
 }
 
 .contents {
@@ -72,7 +75,7 @@ padding-top: 40px;
 }
 
 .contentsinsidesentence>h4 {
-    font-size: 6px;
+    font-size: 10px;
 }
 
 footer {
