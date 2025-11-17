@@ -1,0 +1,32 @@
+課題情報
+
+HTMLの公式ドキュメント
+
+W3C：https://developer.mozilla.org/ja/docs/Web/CSS
+MDN：https://developer.mozilla.org/ja/docs/Web/HTML
+CSSの公式ドキュメント
+
+W3C：https://www.w3.org/Style/CSS/
+MDN：https://developer.mozilla.org/ja/docs/Web/CSS
+河原田昌裕
+17:33
+課題内容
+HTMLを用いて自己紹介をテーマにポートフォリオホームページの作成してください。 なお、下記内容・機能を含むこと。
+
+2つ以上のページを作成すること
+aタグを利用して相互のページに遷移できること
+tableタグの利用すること
+listタグの利用すること
+※ 注意事項
+
+住所や電話番号など必要以上の個人情報は載せないようにしてください。
+チャレンジ課題
+上記内容で余裕がある方は下記に挑戦してみてください。
+
+HTML
+ページ内に画像を利用すること
+ファビコンを設定すること
+CSS
+CSSを利用してデザインを整えること
+レスポンシブデザインにすること
+TailwindまたはBootstrapのCDNを利用すること
