@@ -12,6 +12,7 @@ header {
 
 .nav {
     display: flex;
+    list-style: none;
 }
 
 .nav > li > a {
@@ -19,7 +20,6 @@ header {
     font-size: 20px;
     margin-left: 20px;
     text-decoration: none;   
-
 }
 
 #title {
@@ -34,6 +34,8 @@ header {
     /* ↑必要かチェック */
     color: azure;
 }
+
+
 /* titleの画像が画面サイズを変えた際に縮小等されず、画像の見え方が変わってしまっている? 。*/
 .titlesentence  {
     font-size: 40px;
